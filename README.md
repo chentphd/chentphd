@@ -4,7 +4,7 @@
 
 As an aspiring **Data Scientist** and **Data Analyst**, I am passionate about leveraging data to drive decision-making, optimize performance, and uncover actionable insights. With a strong foundation in mathematics and statistics, I enjoy working on projects that involve **data exploration**, **machine learning**, and **predictive analytics**. 
 
-I’m constantly looking for opportunities to apply my skills in **Python**, **SQL**, and various machine learning frameworks to solve real-world problems.
+I’m constantly looking for opportunities to apply my skills in **Python**, **R**, **SQL**, and various machine learning frameworks to solve real-world problems.
 
 ## 🌟 Current Focus
 - **Data Science:** Machine learning, predictive analytics, and data visualization
