@@ -10,8 +10,7 @@ I’m constantly looking for opportunities to apply my skills in **Python**, **R
 - **Data Science:** Machine learning, predictive analytics, and data visualization
 - **Data Engineering:** SQL, cloud computing, and data pipeline automation
 - **Business Intelligence:** Extracting insights and driving business strategy through analytics
-<h1 align="center">Hi 👋, I'm Tony Chen</h1>
-<h3 align="center">Aspiring Data Scientist / Data Analyst</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chentphd&label=Profile%20views&color=0e75b6&style=flat" alt="chentphd" /> </p>
 
